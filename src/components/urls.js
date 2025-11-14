@@ -1,4 +1,5 @@
-const BASE_URL = "https://kuda-server-navy.vercel.app";
+const BASE_URL = "http://emeka-young-kuda-server.vercel.app";
 
 export default BASE_URL;
+
 
